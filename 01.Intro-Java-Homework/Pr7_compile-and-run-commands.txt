@@ -1,0 +1,4 @@
+1. Navigate to the folder containing the java file with the command:
+   cd workspace/01.Intro-Java-Homework/src/ (or another directory)
+2. Write the command javac Pr6_SumTwoNumbers.java to compile the code.
+3. Write the command java Pr6_SumTwoNumbers to execute the program.
